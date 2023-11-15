@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [st mark school](https://github.com/Abrammse/st-mark-school.git)
 
-- 🌱 I’m currently learning **Rest Api ,jmater**
+- 🌱 I’m currently learning **Rest Api ,jmater , Junit **
 
 - 👯 I’m looking to collaborate on [automation software testing tasks](https://github.com/Abrammse/eva.git)
 
