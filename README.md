@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abram Ashraf</h1>
 <h3 align="center">A passionate Machine Learning Engineering and Software Testing Developer from Egypt</h3>
 
